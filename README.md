@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @prasadazka
-- 👀 I’m interested in Love
-- 🌱 I’m currently learning AI
-- 💞️ I’m looking to collaborate on Anywhere anytime
-- 📫 How to reach me prasadrao@azkashine.com
+- 👀 I’m interested in: Love
+- 🌱 I’m currently learning: AI
+- 💞️ I’m looking to collaborate : Anywhere anytime
+- 📫 How to reach me : prasadrao@azkashine.com
 - 😄 Pronouns: He
 - ⚡ Fun fact: Nothing to Loose
 
